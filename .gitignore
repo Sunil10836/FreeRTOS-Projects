@@ -1,0 +1,51 @@
+# STM32CubeIDE generated files
+/.settings/
+/Debug/
+/Release/
+/build/
+/Generated/    # Sometimes CubeIDE creates this folder
+
+# Object files
+*.o
+*.obj
+*.cyclo
+
+# Executables and binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Listing files
+*.lst
+*.s19
+
+# Compiler-specific files
+*.d
+*.su
+
+# Backup and temporary files
+*~
+*.swp
+*.bak
+
+# CubeMX backup files
+*.ioc-backup
+
+# IDE specific
+*.log
+*.launch
+*.settings/
+*.cproject
+*.project
+
+# User-specific
+*.user
+*.mk
+
+# VSCode (if used along with STM32CubeIDE)
+.vscode/
+
+# macOS, Windows system files
+.DS_Store
+Thumbs.db
